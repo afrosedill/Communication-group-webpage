@@ -1,0 +1,42 @@
+a{
+	text-decoration: none;
+}
+.full-wrapper{
+	width: 100%;
+}
+.wrapper{
+	width: 1100px;
+	margin: 0 auto;
+}
+.logo img{
+	width: 80px;
+	padding: 10px;
+	float: left;
+}
+.menu{
+	float:left;
+	width: 980px;
+	word-spacing: 7px;
+	text-align: right;
+}
+.menu{
+	color: #000;
+	padding: 10px;
+}
+.contact_us{
+	background: lightgrey;
+}
+.contact_us{
+	line-height: 40px;
+}
+.contact_us{
+	text-align: left;
+}
+.click{
+	height: 50px;
+	width: 100px;
+	font-size: 15px;
+	background-color: skyblue;
+	color: white;
+	border: darkblue;
+}
